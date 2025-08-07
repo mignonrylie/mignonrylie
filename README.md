@@ -1,7 +1,6 @@
 ### Hi there!!
 
 I'm Rylie :)
-I'm currently working on iOS developing and server maintenance.
 
 <!--
 **mignonrylie/mignonrylie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
